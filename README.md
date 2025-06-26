@@ -2,11 +2,14 @@
 
 React app of a long list of items that you can select to highlight and move to the top and deselect.
 
-Dependencies:
-```yarn```
+### How to Run
 
-Run locally:
-```yarn dev```
+run `yarn` to get dependencies
+
+Dev Env:
+```
+yarn dev
+```
 
 ### Screenshots
 
