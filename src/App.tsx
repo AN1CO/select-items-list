@@ -1,7 +1,10 @@
+import { items } from "./api/getItems";
+import { List } from "./components/List";
+
 function App() {
   return (
     <>
-      <div>Test</div>
+      <List items={items} />
     </>
   );
 }
